@@ -1,5 +1,5 @@
 <p align="center">  <img src="https://cdn.corenexis.com/files/c/3321966720.png" />
-<p align="center">  <img src="https://s2.ezgif.com/tmp/ezgif-27fe93c144b09008.gif" />
+<p align="center">  <img src="https://cdn.corenexis.com/files/c/2428247720.gif" />
 <p align="center">
   <a href="https://github.com/pillmaxxing/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314zezypv5vkn3go4m3dfhmr5xwe&cover_image=true&theme=novatorem&show_offline=false&background_color=61d6af&interchange=false&profanity=false&bar_color=db578c&bar_color_cover=false">
