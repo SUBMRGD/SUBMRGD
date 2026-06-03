@@ -1,4 +1,4 @@
-<p align="center">  <img src="https://cdn.corenexis.com/files/c/7798654720.png" />
+<p align="center">  <img src="https://cdn.corenexis.com/files/c/3321966720.png" />
 <p align="center">  <img src="https://s2.ezgif.com/tmp/ezgif-27fe93c144b09008.gif" />
 <p align="center">
   <a href="https://github.com/pillmaxxing/spotify-github-profile">
